@@ -85,25 +85,6 @@ Phishing-Detection-System/
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository
-
-git clone https://github.com/yourusername/Phishing-Detection-System.git
-
-Move into the project
-
-cd Phishing-Detection-System
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Run the project
-
-python main.py
-
----
 
 ## 📈 Model Evaluation
 
